@@ -8,7 +8,7 @@ public class iamxb {
     public void version()
     {
         //感谢关注云层天咨微信公众号及腾讯课堂
-        String cloudits；
-        cloudits=“http://www.cloudits.info”;
+        String cloudits;
+        cloudits="http://www.cloudits.info";
     }
 }
